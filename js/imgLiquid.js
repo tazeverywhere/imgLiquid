@@ -161,12 +161,6 @@ imgLiquid.injectCss = '.imgLiquid img {visibility:hidden}';
 						'background-repeat':	'no-repeat'
 					});
 
-					$('a:first', $imgBoxCont).css({
-						'display':	'block',
-						'width':	'100%',
-						'height':	'100%'
-					});
-
 					$('img', $imgBoxCont).css({'display': 'none'});
 
 					if (settings.onItemFinish) settings.onItemFinish($i, $imgBoxCont, $img); /* << CallBack */
