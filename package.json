@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OasisCommunication/imgLiquid.git"
+    "url": "git+https://github.com/tazeverywhere/imgLiquid.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OasisCommunication/imgLiquid/issues"
+    "url": "https://github.com/tazeverywhere/imgLiquid//issues"
   },
-  "homepage": "https://github.com/OasisCommunication/imgLiquid#readme"
+  "homepage": "https://github.com/tazeverywhere/imgLiquid/#readme"
 }
